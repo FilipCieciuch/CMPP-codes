@@ -1,2 +1,2 @@
 # CMPP-codes
-Codes for CMPP course 2023
+This is a repository with codes I wrote for the Computer Modeling of Physical Phenomena course at the Faculty of Physics, University of Warsaw, in 2023.
